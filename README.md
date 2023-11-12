@@ -40,7 +40,3 @@ The following Python libraries and tools are used in this project:
 - Matplotlib
 - Jupyter Notebook
 
-## Usage
-
-1. Clone this repository to your local machine:
-
